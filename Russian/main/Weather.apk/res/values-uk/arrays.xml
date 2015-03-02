@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Ясно</item>
+        <item>Хмарно</item>
+        <item>Похмуро</item>
+        <item>Туман</item>
+        <item>Буря</item>
+        <item>Шторм</item>
+        <item>Сильна злива</item>
+        <item>Гроза</item>
+        <item>Дощ</item>
+        <item>Злива</item>
+        <item>Дощ</item>
+        <item>Невеликий дощ</item>
+        <item>Сніг з дощем</item>
+        <item>Заметіль</item>
+        <item>Сніг</item>
+        <item>Снігопад</item>
+        <item>Легкий сніг</item>
+        <item>Невеликий сніг</item>
+        <item>Курний шторм</item>
+        <item>Піщана буря</item>
+        <item>Помірний пил</item>
+        <item>Вітряно</item>
+        <item>Град</item>
+        <item>Пил</item>
+        <item>Димка</item>
+        <item>Морозний дощ</item>
+        <item>Немає даних</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Низький</item>
+        <item>Середній</item>
+        <item>Помірний</item>
+        <item>Високий</item>
+        <item>Небезпечний</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Вітер З</item>
+        <item>Вітер ПС</item>
+        <item>Вітер С</item>
+        <item>Вітер ПС</item>
+        <item>Вітер П</item>
+        <item>Вітер ПС</item>
+        <item>Вітер З</item>
+        <item>Вітер ПЗ</item>
+    </string-array>
+    <string-array name="moon_desc">
+        <item>Новий місяць</item>
+        <item>Молодий місяць</item>
+        <item>Перша чверть</item>
+        <item>Прибуваючий місяць</item>
+        <item>Повний місяць</item>
+        <item>Убуваючий місяць</item>
+        <item>Остання чверть</item>
+        <item>Убуваючий місяць</item>
+        <item>Старий місяць</item>
+    </string-array>
+</resources>

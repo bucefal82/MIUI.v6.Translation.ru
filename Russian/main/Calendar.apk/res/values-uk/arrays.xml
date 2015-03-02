@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Повідомлення</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Будильник</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Не нагадувати</item>
+        <item>По факту</item>
+        <item>За 5 хвилин</item>
+        <item>За 10 хвилин</item>
+        <item>За 15 хвилин</item>
+        <item>За 30 хвилин</item>
+        <item>За годину</item>
+        <item>За день</item>
+        <item>За 2 дня</item>
+        <item>За тиждень</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Не нагадувати</item>
+        <item>По факту</item>
+        <item>За 5 хвилин</item>
+        <item>За 10 хвилин</item>
+        <item>За 15 хвилин</item>
+        <item>За 30 хвилин</item>
+        <item>За годину</item>
+        <item>За день</item>
+        <item>За 2 дня</item>
+        <item>За тиждень</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>По регіону</item>
+        <item>Субота</item>
+        <item>Неділя</item>
+        <item>Понеділок</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Маршалови о-ви</item>
+        <item>Острів Мідуей</item>
+        <item>Гаваї</item>
+        <item>Аляска</item>
+        <item>Тихоокеан. час</item>
+        <item>Тіхуана</item>
+        <item>Арізона</item>
+        <item>Чіуауа</item>
+        <item>Гірський час</item>
+        <item>Центр. Америка</item>
+        <item>Центр. час</item>
+        <item>Мехіко</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>Східний час</item>
+        <item>Венесуела</item>
+        <item>Атлантика (Барбадос)</item>
+        <item>Атлантика (Канада)</item>
+        <item>Манаус</item>
+        <item>Сантьяго</item>
+        <item>Ньюфаундленд</item>
+        <item>Бразилія</item>
+        <item>Буенос-Айрес</item>
+        <item>Гренландія</item>
+        <item>Монтевідео</item>
+        <item>Центр. Атлантика</item>
+        <item>Азорські о-ви</item>
+        <item>О-ви Кабо-Верде</item>
+        <item>Касабланка</item>
+        <item>Лондон, Дублін</item>
+        <item>Амстердам, Берлін</item>
+        <item>Белград</item>
+        <item>Брюссель</item>
+        <item>Сараєво</item>
+        <item>Віндхук</item>
+        <item>Зап.-афр. час</item>
+        <item>Амман, Йорданія</item>
+        <item>Афіни, Стамбул</item>
+        <item>Бейрут, Ліван</item>
+        <item>Каїр</item>
+        <item>Гельсінкі</item>
+        <item>Єрусалим</item>
+        <item>Мінськ</item>
+        <item>Хараре</item>
+        <item>Багдад</item>
+        <item>Москва</item>
+        <item>Кувейт</item>
+        <item>Найробі</item>
+        <item>Тегеран</item>
+        <item>Баку</item>
+        <item>Тбілісі</item>
+        <item>Єреван</item>
+        <item>Дубай</item>
+        <item>Кабул</item>
+        <item>Ісламабад, Карачі</item>
+        <item>Уральськ</item>
+        <item>Єкатеринбург</item>
+        <item>Калькутта</item>
+        <item>Шрі-Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Красноярськ</item>
+        <item>Банкок</item>
+        <item>Пекін</item>
+        <item>Гонконг</item>
+        <item>Іркутськ</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайбэй</item>
+        <item>Сеул</item>
+        <item>Токіо, Осака</item>
+        <item>Якутськ</item>
+        <item>Аделаїда</item>
+        <item>Дарвін</item>
+        <item>Брісбен</item>
+        <item>Хобарт</item>
+        <item>Сідней, Канберра</item>
+        <item>Владивосток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Окленд</item>
+        <item>Фіджі</item>
+        <item>Тонга</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Зайнятий</item>
+        <item>Доступний</item>
+        <item>Не визначений</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>За замовчуванням</item>
+        <item>Закрите</item>
+        <item>Для всіх</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>перш.</item>
+        <item>друг.</item>
+        <item>трет</item>
+        <item>четверт.</item>
+        <item>остан.</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(немає відповіді)</item>
+        <item>Так</item>
+        <item>Можливо</item>
+        <item>Немає</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Тільки цей захід</item>
+        <item>Цей й майбутні заходи</item>
+        <item>Всі заходи</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Цей й майбутні заходи</item>
+        <item>Всі заходи</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Тільки цього разу</item>
+        <item>Всі заходи в серії</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>День</item>
+        <item>Тиждень</item>
+        <item>Місяць</item>
+        <item>Порядок денний</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Спізнюся на кілька хвилин</item>
+        <item>Буду там через 10 хвилин</item>
+        <item>Починайте без мене</item>
+        <item>Вибачте, я не можу цього зробити. Потрібно переглянути розклад</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Прозорий</item>
+        <item>Білий</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>дн.</item>
+        <item>тиж.</item>
+        <item>міс.</item>
+        <item>р.</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Нд</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Січ</item>
+        <item>Лют</item>
+        <item>Бер</item>
+        <item>Квіт</item>
+        <item>Трав</item>
+        <item>Черв</item>
+        <item>Лип</item>
+        <item>Серп</item>
+        <item>Вер</item>
+        <item>Жов</item>
+        <item>Гру</item>
+        <item>Лист</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>перша</item>
+        <item>друга</item>
+        <item>третя</item>
+        <item>четверта</item>
+        <item>остання</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Пн - Пт</item>
+        <item>Вихідні</item>
+        <item>Весь тижень</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Ніколи</item>
+        <item>Час</item>
+        <item>Таймер</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Тільки при відмові</item>
+        <item>При відмові або коли не відповідають</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>"кожну першу п'ятницю"</item>
+        <item>"кожну другу п'ятницю"</item>
+        <item>"кожну третю п'ятницю"</item>
+        <item>"кожну четверту п'ятницю"</item>
+        <item>"кожну останню п'ятницю"</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>кожний перший понеділок</item>
+        <item>кожний другий понеділок</item>
+        <item>кожний третій понеділок</item>
+        <item>кожний четвертий понеділок</item>
+        <item>кожний останній понеділок</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>кожний перший понеділок</item>
+        <item>кожну другий понеділок</item>
+        <item>кожний третій понеділок</item>
+        <item>кожний четвертий понеділок</item>
+        <item>кожний останній понеділок</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>кожне першу неділю</item>
+        <item>кожну другу неділю</item>
+        <item>кожну третю неділю</item>
+        <item>кожну четверту неділю</item>
+        <item>кожну останню неділю</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>кожний перший четвер</item>
+        <item>кожний другий четвер</item>
+        <item>кожний третій четвер</item>
+        <item>кожний четвертий четвер</item>
+        <item>кожний останній четвер</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>кожний перший вівторок</item>
+        <item>кожний другий вівторок</item>
+        <item>кожний третій вівторок</item>
+        <item>кожний четвертий вівторок</item>
+        <item>кожний останній вівторок</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>кожну першу середу</item>
+        <item>кожну другу середу</item>
+        <item>кожну третю середу</item>
+        <item>кожну четверту середу</item>
+        <item>кожну останню середу</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Центрально Австралійське - NT</item>
+        <item>Центрально Австралійське - SA</item>
+        <item>Східно Австралійське - QLD</item>
+        <item>Східно Австралійське - NSW</item>
+        <item>Гірське - Доусон Крик</item>
+        <item>Центральне стандартне - Саскачеван</item>
+        <item>Південне стандартне - Атікокан</item>
+        <item>Атлантичне стандартне - Квебек</item>
+        <item>Гаваї Алеутське - Гаваї</item>
+        <item>Гаваї Алеутське - Аляска</item>
+        <item>Тихоокеанське стандартне - Метлакатла</item>
+        <item>Гірське стандартне - Арізона</item>
+        <item>Тихоокеанське - Нижня Каліфорнія</item>
+        <item>Гірське - Чихуахуа</item>
+        <item>Центральне - Тамауліпас</item>
+        <item>Гірське - Сонора</item>
+        <item>Південоафриканський час</item>
+        <item>Стандартноатлантичний час</item>
+        <item>Стандартноатлантичний час</item>
+        <item>Південноевропейський час</item>
+        <item>Калинінградський час</item>
+        <item>Амазонка - Рондонія</item>
+        <item>Бразилія - Пара</item>
+    </string-array>
+    <string-array name="prefentries_alerts_vibratewhen">
+        <item>Завжди</item>
+        <item>У режимі \" Без звуку\"</item>
+        <item>Ніколи</item>
+    </string-array>
+</resources>

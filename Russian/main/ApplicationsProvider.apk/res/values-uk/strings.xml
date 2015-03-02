@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Застосунки</string>
+    <string name="search_label">Застосунки</string>
+    <string name="application_desc">Застосунок</string>
+    <string name="settings_description">Пошук програм</string>
+</resources>

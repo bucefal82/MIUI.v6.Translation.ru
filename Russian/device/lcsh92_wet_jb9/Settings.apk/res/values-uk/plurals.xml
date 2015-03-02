@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Після %1$d натискань буде відкритий доступ до меню для розроблювачів</item>
+        <item quantity="one">Після %1$d натискання буде відкритий доступ до меню для розроблювачів</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Пароль повинен містити букви (не менш %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 букву</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Пароль повинен містити рядкові символи (не менш %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 малу літеру</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Пароль повинен містити заголовні букви (не менш %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 заголовну букву</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Пароль повинен містити цифри (не менш %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 цифру</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Пароль повинен містити спеціальні символи (не менш %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 спеціальний символ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Пароль повинен містити небуквені символи (не менш %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 небуквений символ</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">"Додатків: %d 
+доступ до читання повідомлень"</item>
+        <item quantity="one">"Додатків: %d 
+доступ до читання повідомлень"</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Невірний PIN код. Залишилося спроб: %d.</item>
+        <item quantity="one">Невірний PIN код. Залишилося спроб: %d.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Знайдено принтерів: %1$s</item>
+        <item quantity="one">Знайдено принтерів: %1$s</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Залишилося натискань для відкриття інформації про телефон: %1$d</item>
+        <item quantity="one">Залишилося натискань для відкриття інформації про телефон: %1$d</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Залишилося натискань для входу в інженерне меню: %1$d</item>
+        <item quantity="one">Залишилося натискань для входу в інженерне меню: %1$d</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Залишилося натискань для відправлення звіту про помилки: %1$d</item>
+        <item quantity="one">Залишилося натискань для відправлення звіту про помилки: %1$d</item>
+    </plurals>
+</resources>

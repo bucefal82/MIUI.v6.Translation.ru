@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Ласкаво просимо</string>
+    <string name="input_method_setting">Виберіть спосіб введення</string>
+    <string name="input_method_category">Виберіть метод введення за замовчуванням</string>
+    <string name="provision_inputmethod_policy_description">"Перегляд обраної клавіатури "</string>
+    <string name="provision_inputmethod_policy_description1">Політика конфіденційності</string>
+    <string name="multisim_settings_title">Виявлено 2 SIM карти</string>
+    <string name="multisim_settings_category">Налаштування SIM</string>
+    <string name="page_layout_title">Компоновка системи</string>
+    <string name="page_layout_label">Встановіть розмір шрифту, положення іконок на робочому столі, размір панелі сповіщень та інші налаштування.</string>
+    <string name="sim_card_detection">Немає SIM карти</string>
+    <string name="sim_card_detection_info">Як вставити SIM карту прочитайте в прикладеній до пристрою інструкції</string>
+    <string name="sim_card_detecting">Перевірка SIM карти…</string>
+    <string name="other_settings">Додатково</string>
+    <string name="other_settings_location">Доступ до місця розташування</string>
+    <string name="other_settings_location_summary">Дозволити додаткам визначати місце розташування</string>
+    <string name="other_settings_user_experience">Відправлення звітів</string>
+    <string name="other_settings_user_experience_summary">Відправляти анонімні звіти(%s)</string>
+    <string name="other_settings_user_experience_summary1">"
+полытика безпеки"</string>
+    <string name="next">Далі</string>
+    <string name="sim_dectection_next">Продовжити</string>
+    <string name="shut_down">Вимикання</string>
+    <string name="sim_redetection">Перевірити SIM карту повторно</string>
+    <string name="title_congratulation">Налаштування завершені</string>
+    <string name="congratulation_label">Насолоджуйтеся користуванням:)</string>
+    <string name="pref_title_voice_slot">Краща SIM карта голосу</string>
+    <string name="pref_title_data_slot">Краща SIM карта даних</string>
+    <string name="summary_not_set">Не встановлене</string>
+    <string name="summary_sim_card">Карта %1$d%2$s</string>
+    <string name="ime_privacy_policy">Політика конфіденційності обраної клавіатури</string>
+    <string name="ime_privacy_policy_no_network">Не вдається підключитися до інтернету. Переглянути політику конфіденційності для цієї клавіатури ви можете на %s.</string>
+    <string name="terms_of_use">Умови користування</string>
+    <string name="terms_of_use_label">Необхідно прийняти умови користування та політику конфіденційності перед використанням MIUI</string>
+    <string name="user_agreement">Угода користувача</string>
+    <string name="privacy_policy">Політика конфіденційності</string>
+    <string name="agree">ОК</string>
+    <string name="disagree">Скасування</string>
+    <string name="network_access_warning">Для активації пристрою необхідний доступ до мережі</string>
+    <string name="setting_locale">Налаштування місця розташування…</string>
+    <string name="miui_terms_no_network">Мережа недоступна. Переглянете умови користування на %s</string>
+    <string name="miui_privacy_policy_no_network">Мережа недоступна. Перегляньте політику конфіденційності на %s</string>
+    <string name="locale_picker_title">Виберіть місце розташування</string>
+    <string name="locale_picker_desc">Якщо ви прагнете змінити місце розташування пізніше, буде потрібно зробити загальне скидання налаштувань</string>
+    <string name="locale_picker_confirm_dialog_title">Місцезнаходження</string>
+    <string name="locale_picker_confirm_dialog_desc">Вибрати \"%s\" як ваше місцезнаходження?</string>
+    <string name="provision_finish">ОК</string>
+    <string name="provision_finish_restart">Перезавантажені</string>
+    <string name="congratulation_next">Готове</string>
+    <string name="logo_congratulation">Налаштування завершене</string>
+    <string name="terms_of_service">Умови користування</string>
+</resources>

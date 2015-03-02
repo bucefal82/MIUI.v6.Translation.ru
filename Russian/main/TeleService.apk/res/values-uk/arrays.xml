@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ims_call_cap_types">
+        <item>Голос</item>
+        <item>Відео</item>
+    </string-array>
+    <string-array name="ims_call_types">
+        <item>Голос</item>
+        <item>Відео</item>
+        <item>Голос із комутацією</item>
+    </string-array>
+    <string-array name="ims_video_cs_call_types">
+        <item>Відео</item>
+        <item>Голос із комутацією</item>
+    </string-array>
+    <string-array name="ims_voice_cs_call_types">
+        <item>Голос</item>
+        <item>Голос із комутацією</item>
+    </string-array>
+    <string-array name="cs_call_type">
+        <item>Голос із комутацією</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Звичайні</item>
+        <item>Довгі</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Потрійний режим</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA/LTE</item>
+        <item>TD-SCDMA/GSM/WCDMA</item>
+        <item>TD-SCDMA/GSM/LTE</item>
+        <item>TD-SCDMA/GSM</item>
+        <item>TD-SCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA</item>
+        <item>TD-SCDMA</item>
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Глобальна мережа</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/Evdo</item>
+        <item>CDMA/Evdo/GSM/WCDMA</item>
+        <item>Evdo</item>
+        <item>CDMA без Evdo</item>
+        <item>CDMA/Evdo автоматично</item>
+        <item>GSM/WCDMA автоматично</item>
+        <item>WCDMA</item>
+        <item>GSM</item>
+        <item>Переважно GSM/WCDMA</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Тільки домашня</item>
+        <item>Автоматично</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Англійський</item>
+        <item>Французький</item>
+        <item>Іспанський</item>
+        <item>Японський</item>
+        <item>Корейський</item>
+        <item>Китайський</item>
+        <item>Іврит</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>За замовчуванням</item>
+        <item>Приховати номер</item>
+        <item>Показати номер</item>
+    </string-array>
+</resources>

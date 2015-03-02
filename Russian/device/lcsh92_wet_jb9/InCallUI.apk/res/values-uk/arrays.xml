@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ims_call_types">
+        <item>Голос</item>
+        <item>Відео</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>За замовчуванням</item>
+        <item>Приховати номер</item>
+        <item>Показати номер</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Глобальна мережа</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>CDMA/EvDo автоматически</item>
+        <item>GSM/WCDMA автоматически</item>
+        <item>WCDMA</item>
+        <item>GSM</item>
+        <item>Краще GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Англійська</item>
+        <item>Французька</item>
+        <item>Іспанська</item>
+        <item>Японська</item>
+        <item>Корейська</item>
+        <item>Китайська</item>
+        <item>Іврит</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Тільки домашня</item>
+        <item>Автоматично</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Телетайп вимкнено</item>
+        <item>Повнофункціональний телетайп</item>
+        <item>Телетайп з можливістю чути співрозмовника</item>
+        <item>Телетайп з можливістю передачі голосу</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Звичайні</item>
+        <item>Довгі</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_in_web">Пошук в інтернеті</string>
+    <string name="search_in_app_store">Пошук у маркеті</string>
+    <string name="send_secret_code">Відправити секретний код</string>
+    <string name="app_name">Пошук</string>
+    <string name="search_widget">Пошук</string>
+    <string name="remove_from_history">Видалити запис із історії пошуку?</string>
+    <string name="remove_from_history_failed">Помилка видалення запису з історії пошуку</string>
+    <string name="corpus_selection_heading">Пошук</string>
+    <string name="corpus_label_global">Скрізь</string>
+    <string name="corpus_label_web">Інтернет</string>
+    <string name="corpus_description_web">Web-Пошук і закладки</string>
+    <string name="corpus_label_apps">Застосунку</string>
+    <string name="corpus_description_apps">Назви застосунків</string>
+    <string name="corpus_hint_apps">Пошук застосунків</string>
+    <string name="menu_settings">Налаштування</string>
+    <string name="search_settings">Налаштування</string>
+    <string name="google_settings_category_title">Пошук Google</string>
+    <string name="device_settings_category_title">Очистити історію пошуку</string>
+    <string name="system_search_category_title">Телефон</string>
+    <string name="search_sources">Елементи пошуку</string>
+    <string name="search_sources_summary">Виберіть, що шукати в телефоні</string>
+    <string name="clear_shortcuts">Очистити історію пошуку</string>
+    <string name="clear_shortcuts_summary">Очищення історії всіх пошукових запитів</string>
+    <string name="clear_shortcuts_prompt">Вся історія пошукових запитів буде очищена</string>
+    <string name="clear_shortcuts_agree">Очистити</string>
+    <string name="clear_shortcuts_disagree">Скасування</string>
+    <string name="menu_help">Допомога</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Пошук Google</string>
+    <string name="google_search_hint">Пошук Google</string>
+    <string name="google_search_description">Пропозиції пошуку Google</string>
+    <string name="voice_search_hint_title">Говоріть:</string>
+</resources>

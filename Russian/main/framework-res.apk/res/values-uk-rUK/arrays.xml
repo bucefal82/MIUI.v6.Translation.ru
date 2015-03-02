@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_labels">
+        <item>Спроба одержання доступу до місця розташування</item>
+        <item>Спроба одержання доступу до місця розташування</item>
+        <item>Спроба одержання доступу до місця розташування</item>
+        <item>Спроба використання вібрації</item>
+        <item>Спроба читання контактів</item>
+        <item>Спроба зміни контактів</item>
+        <item>Спроба читання журналу викликів</item>
+        <item>Спроба зміни журналу викликів</item>
+        <item>Спроба читання календаря</item>
+        <item>Спроба зміни календаря</item>
+        <item>Спроба одержання доступу до місця розташування</item>
+        <item>Спроба виведення повідомлення</item>
+        <item>Спроба одержання доступу до місця розташування</item>
+        <item>Спроба здійснення виклику</item>
+        <item>Спроба читання повідомлень</item>
+        <item>Спроба читання й зміни повідомлень</item>
+        <item>Спроба одержання повідомлення</item>
+        <item>Спроба одержання повідомлення</item>
+        <item>Спроба одержання повідомлення</item>
+        <item>Спроба одержання повідомлення</item>
+        <item>Спроба відправлення повідомлення</item>
+        <item>Спроба читання повідомлень</item>
+        <item>Спроба читання й зміни повідомлень</item>
+        <item>Спроба зміни налаштувань</item>
+        <item>Спроба підйому</item>
+        <item>Спроба одержання доступу до повідомлень</item>
+        <item>Спроба одержання доступу до камери</item>
+        <item>Спроба запису звуку</item>
+        <item>Спроба відтворення звуку</item>
+        <item>Спроба читання буфера обміну</item>
+        <item>Спроба зміни буфера обміну</item>
+        <item>Спроба використання кнопок медіа</item>
+        <item>Спроба використання фокуса звуку</item>
+        <item>Спроба використання загальної гучності</item>
+        <item>Спроба використання гучності розмови</item>
+        <item>Спроба використання гучності виклику</item>
+        <item>Спроба використання гучності медіа</item>
+        <item>Спроба використання гучності будильника</item>
+        <item>Спроба використання гучності повідомлень</item>
+        <item>Спроба використання гучності bluetooth</item>
+        <item>Спроба втримувати екран включеним</item>
+        <item>Спроба одержання доступу до місця розташування</item>
+        <item>Спроба одержання доступу до місця розташування</item>
+        <item>Спроба включення/вимикання Wi-Fi</item>
+        <item>Спроба включення/вимикання Bluetooth</item>
+        <item>Спроба включення/вимикання мобільного інтернету</item>
+        <item>Спроба відправлення MMS</item>
+        <item>Спроба читання MMS</item>
+        <item>Спроба створення MMS</item>
+        <item>Спроба запуску</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>55750449</item>
+        <item>37621136</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>2</item>
+    </integer-array>
+    <string-array name="emailaddresstypes">
+        <item>Домашній</item>
+        <item>Робочий</item>
+        <item>Інший</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="improtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationtypes">
+        <item>Робочий</item>
+        <item>Інше</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="phonetypes">
+        <item>Домашній</item>
+        <item>Мобільний</item>
+        <item>Робочий</item>
+        <item>Робочий факс</item>
+        <item>Домашній факс</item>
+        <item>Пейджер</item>
+        <item>Інший</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="postaladdresstypes">
+        <item>Домашній</item>
+        <item>Робочий</item>
+        <item>Інший</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="imaddresstypes">
+        <item>Домашній</item>
+        <item>Робочий</item>
+        <item>Інший</item>
+        <item>Вибрати</item>
+    </string-array>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Компас</string>
+    <string name="getting_location">Калібрування...</string>
+    <string name="cannot_get_location">-</string>
+    <string name="location_north">Північнаширота</string>
+    <string name="location_south">Південнаширота</string>
+    <string name="location_east">Східнадовгота</string>
+    <string name="location_west">Західнадовгота</string>
+    <string name="menu_calibrate">Калібрування компаса</string>
+    <string name="calibrate_success">Калібрування завершено</string>
+    <string name="calibrate_failed_no_location">Помилка калібрування</string>
+    <string name="calibrate_failed_timeout">Не вдалося підключитися до сервера</string>
+    <string name="calibrate_failed">Помилка калібрування висоти</string>
+    <string name="pressure_title">Тиск</string>
+    <string name="altitude_title">Висота</string>
+    <string name="pressure_unit">гПа</string>
+    <string name="altitude_unit">м</string>
+    <string name="dialog_title_no_network">Не вдалося підключитися до інтернету</string>
+    <string name="dialog_calibrat_altitude">Калібрування...</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Довгота</string>
+    <string name="direction_north">З</string>
+    <string name="direction_south">П</string>
+    <string name="direction_east">С</string>
+    <string name="direction_west">З</string>
+    <string name="direction_north_east">ПС</string>
+    <string name="direction_north_west">ПЗ</string>
+    <string name="direction_south_east">ПС</string>
+    <string name="direction_south_west">ПЗ</string>
+    <string name="guide_toast">Виконайте калібрування, обертаючи телефон так, як показано на анімації.</string>
+    <string name="calibrate_altitude">Калібрування</string>
+    <string name="mobiledata_alert_dialog_title">Попередження</string>
+    <string name="mobiledata_alert_dialog_message">Дозволити доступ в інтернет для калібрування?</string>
+    <string name="do_not_show_next_time">"Запам'ятати"</string>
+    <string name="location_not_enabled_title">Попередження</string>
+    <string name="location_not_enabled_summary">Увімкнути сервіси позиціонування?</string>
+    <string name="location_enable">OK</string>
+    <string name="location_enable_later">Скасувати</string>
+    <string name="location_enabled">Сервіси визначення місцеположення увімкнені</string>
+    <string name="using_camera_confirm_title">Попередження</string>
+    <string name="using_camera_confirm_message">Дозволити застосунку використовувати камеру?</string>
+    <string name="using_camera_confirm_ok">ОК</string>
+    <string name="using_camera_confirm_cancel">Скасування</string>
+    <string name="shake_enter_tip">Струсніть для калібрування</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Антивірус Tencent</string>
+    <string name="hello_world">Привіт світ!</string>
+    <string name="menu_settings">Налаштування</string>
+</resources>
