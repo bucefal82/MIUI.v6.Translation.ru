@@ -1171,7 +1171,7 @@
     <string name="disabled">Отключено</string>
     <string name="not_installed">Не установлено</string>
     <string name="no_applications">Нет приложений</string>
-    <string name="internal_storage">Внутренняя память</string>
+    <string name="internal_storage">Память для приложений</string>
     <string name="sd_card_storage">SD карта</string>
     <string name="recompute_size">Повторное вычисление размера…</string>
     <string name="clear_data_dlg_title">Удалить данные приложения?</string>
